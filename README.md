@@ -18,7 +18,7 @@ To download with Maven, add to your pom.xml:
 
 ```
 <dependency>
-  <groupId>org.example</groupId>
+  <groupId>master-thesis-annotations</groupId>
   <artifactId>master-thesis-disable-warnings-annotations</artifactId>
   <version>LATEST_VERSION</version>
 </dependency>
