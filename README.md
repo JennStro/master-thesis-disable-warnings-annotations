@@ -26,4 +26,4 @@ To download with Maven, add to your pom.xml:
 
 ### Demo
 ![noEqualsMEthodDemo](https://user-images.githubusercontent.com/48728008/148528930-d7e1669b-8e98-4a61-8609-cc7424eb1574.gif)
->>>>>>> 114db91e70f5e6be7b8fec1a3485817d85869518
+
