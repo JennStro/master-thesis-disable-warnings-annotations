@@ -20,7 +20,7 @@ To download with Maven, add to your pom.xml:
 <dependency>
   <groupId>master-thesis-annotations</groupId>
   <artifactId>master-thesis-disable-warnings-annotations</artifactId>
-  <version>LATEST_VERSION</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
